@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Factorial/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Factorial.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Factorial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Factorial/1.0.0": {
+      "type": "project",
+      "path": "../Factorial/Factorial.csproj",
+      "msbuildProject": "../Factorial/Factorial.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Factorial >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Vamshi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Vamshi\\source\\repos\\AsyncAndAwait\\AsyncAndAwait\\AsyncAndAwait.csproj",
+      "projectName": "AsyncAndAwait",
+      "projectPath": "C:\\Users\\Vamshi\\source\\repos\\AsyncAndAwait\\AsyncAndAwait\\AsyncAndAwait.csproj",
+      "packagesPath": "C:\\Users\\Vamshi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vamshi\\source\\repos\\AsyncAndAwait\\AsyncAndAwait\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Vamshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Vamshi\\source\\repos\\AsyncAndAwait\\Factorial\\Factorial.csproj": {
+              "projectPath": "C:\\Users\\Vamshi\\source\\repos\\AsyncAndAwait\\Factorial\\Factorial.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

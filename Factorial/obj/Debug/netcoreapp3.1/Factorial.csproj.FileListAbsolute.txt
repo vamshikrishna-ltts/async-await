@@ -1,0 +1,9 @@
+C:\Users\Vamshi\source\repos\AsyncAndAwait\Factorial\bin\Debug\netcoreapp3.1\Factorial.deps.json
+C:\Users\Vamshi\source\repos\AsyncAndAwait\Factorial\bin\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\Vamshi\source\repos\AsyncAndAwait\Factorial\bin\Debug\netcoreapp3.1\Factorial.pdb
+C:\Users\Vamshi\source\repos\AsyncAndAwait\Factorial\obj\Debug\netcoreapp3.1\Factorial.csprojAssemblyReference.cache
+C:\Users\Vamshi\source\repos\AsyncAndAwait\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfoInputs.cache
+C:\Users\Vamshi\source\repos\AsyncAndAwait\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfo.cs
+C:\Users\Vamshi\source\repos\AsyncAndAwait\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Vamshi\source\repos\AsyncAndAwait\Factorial\obj\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\Vamshi\source\repos\AsyncAndAwait\Factorial\obj\Debug\netcoreapp3.1\Factorial.pdb
